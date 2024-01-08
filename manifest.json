@@ -1,0 +1,10 @@
+{
+	"id": "minio-uploader",
+	"name": "Minio-Uploader",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Upload images, videos, audio, pdf, and other media files to Minio OSS.",
+	"author": "Daisuke Miyazaki",
+	"authorUrl": "https://mdaisuke.net",
+	"isDesktopOnly": false
+}

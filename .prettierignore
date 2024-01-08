@@ -1,0 +1,6 @@
+# Ignore artifacts:
+main.js
+README.md
+README-jp.md
+manifest.json
+package.json
