@@ -1,6 +1,6 @@
 {
 	"name": "alternative-obsidian-minio-uploader-plugin",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Upload media files to Minio OSS.",
 	"main": "main.js",
 	"scripts": {

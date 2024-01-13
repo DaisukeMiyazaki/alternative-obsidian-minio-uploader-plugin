@@ -34,9 +34,6 @@ export default class MinioUploaderPlugin extends Plugin {
 			this.activateView();
 		});
 
-		const item = this.addStatusBarItem();
-		item.createEl("span", { text: this.settings.bucket, cls: "bucket" });
-
 		// This adds a settings tab so the user can configure various aspects of the plugin
 		this.addSettingTab(new MinioSettingTab(this.app, this));
 
